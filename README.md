@@ -1,6 +1,4 @@
-# weather-app
-
-## Weather App - Using Javascript
+# Weather App 
 
 **Features:**
 
