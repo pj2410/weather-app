@@ -2,12 +2,10 @@
 
 ## Weather App - Using Javascript
 
-This is a README file for a weather application built with HTML, CSS, and Javascript.
-
 **Features:**
 
 * User enters a location
-* Fetches weather data using OpenWeatherMap API (replace `bb3120100d66333a4ce0c8bc70f5adab` with your own API key)
+* Fetches weather data using OpenWeatherMap API
 * Displays weather information including:
     * Temperature (°C)
     * Weather description (e.g. clear, rain, snow)
@@ -36,7 +34,7 @@ This is a README file for a weather application built with HTML, CSS, and Javasc
 
 **Dependencies:**
 
-* OpenWeatherMap API: https://openweathermap.org/
+* OpenWeatherMap API: https://openweathermap.org/ (https://openweathermap.org/)
 
 **Icons:**
 
