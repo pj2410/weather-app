@@ -20,9 +20,8 @@
 
 **Getting Started:**
 
-1. Replace `bb3120100d66333a4ce0c8bc70f5adab` in `script.js` with your own OpenWeatherMap API key.
-2. Ensure you have the required images (`clear.png`, `rain.png`, `snow.png`, `cloud.png`, `mist.png`, `404.png`) in the `images` folder.
-3. Open `index.html` in a web browser to run the application.
+1. Ensure you have the required images (`clear.png`, `rain.png`, `snow.png`, `cloud.png`, `mist.png`, `404.png`) in the `images` folder.
+2. Open `index.html` in a web browser to run the application.
 
 **How it works:**
 
