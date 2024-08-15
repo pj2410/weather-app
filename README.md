@@ -32,6 +32,7 @@
 **Dependencies:**
 
 * OpenWeatherMap API: https://openweathermap.org/
+
 **Icons:**
 
 * Boxicons: https://boxicons.com/ (Used for icons)
